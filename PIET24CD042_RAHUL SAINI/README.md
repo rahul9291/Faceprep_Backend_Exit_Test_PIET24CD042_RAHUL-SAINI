@@ -1,7 +1,7 @@
 # Backend Development Exit Test
 
-**Student:** Mayank Agrawal
-**Registration Number:** PIET24CD032
+**Student:** Rahul Saini
+**Registration Number:** PIET24CD042
 
 This repository contains both required backend tasks.
 
@@ -64,9 +64,9 @@ Example register body:
 
 ```json
 {
-  "name": "Mayank Agrawal",
-  "email": "mayank.student@example.com",
-  "password": "secret123",
+  "name": "Rahul Saini",
+  "email": "rahul.student@example.com",
+  "password": "rahul@123",
   "role": "student"
 }
 ```
